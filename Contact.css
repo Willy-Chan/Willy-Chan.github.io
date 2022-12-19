@@ -1,0 +1,33 @@
+ .u-section-1 {
+  min-height: 909px;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 503px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 156px;
+  height: 199px;
+  margin: 83px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Albert Sans";
+  margin: 41px auto 60px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-icon-1 {
+  margin-top: 5px;
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 552px;
+  }
+}
